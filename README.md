@@ -1,6 +1,6 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Yerden Sadibek** (*180103006*)- UI/UX Designer (GitHub account: *zeusonegod777*)
++ **Yerden Sadibek** (*180103006*) - UI/UX Designer (GitHub account: *zeusonegod777*)
 + **Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
 
 ## Project
