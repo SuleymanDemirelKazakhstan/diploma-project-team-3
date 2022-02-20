@@ -1,7 +1,8 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Yerden Sadibek** (*180103006*) - UI/UX Designer (GitHub account: *zeusonegod777*)
-+ ** Example: Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
++ **Yerden Sadibek** (*180103006*) - UX Designer (GitHub account: *zeusonegod777*);
++ **Zhumazhan Bekezhan** (*180103276*) - UI Designer (GitHub account: *unknown*);
+
 
 ## Project
 This project is yet-another clone of Instagram
