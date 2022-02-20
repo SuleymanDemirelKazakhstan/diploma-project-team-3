@@ -4,8 +4,7 @@
 + **Zhumazhan Bekezhan** (*180103276*) - UI Designer (GitHub account: *unknown*);
 + **Bayangali Nauryzbek** (*180103234*) - Documentation (GitHub account: *nauk01*);
 + **Nurtore Kurmankozha** (*180103146*) - Backend (Github account: *nurtorequrmanqoja*);
-
-
++ **Askar Utarbayev** (*180103200*) - Java Android Developer (Github account: *AskarUtarbayev1*);
 ## Project
 This project is yet-another clone of Instagram
 
