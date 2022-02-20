@@ -3,6 +3,7 @@
 + **Yerden Sadibek** (*180103006*) - UX Designer (GitHub account: *zeusonegod777*);
 + **Zhumazhan Bekezhan** (*180103276*) - UI Designer (GitHub account: *unknown*);
 + **Bayangali Nauryzbek** (*180103234*) - Documentation (GitHub account: *nauk01*);
++ **Nurtore Kurmankozha** (*180103146*) - Backend (Github account: *nurtorequrmanqoja*);
 
 
 ## Project
