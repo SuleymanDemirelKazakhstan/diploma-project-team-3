@@ -1,7 +1,7 @@
 # CSS 410 Research tools and methods
 ## Team members
 + **Yerden Sadibek** (*180103006*) - UX Designer (GitHub account: *zeusonegod777*);
-+ **Zhumazhan Bekezhan** (*180103276*) - UI Designer (GitHub account: *unknown*);
++ **Zhumazhan Bekezhan** (*180103276*) - UI Designer (GitHub account: *Bekezhan*);
 + **Bayangali Nauryzbek** (*180103234*) - Documentation (GitHub account: *nauk01*);
 + **Nurtore Kurmankozha** (*180103146*) - Backend (Github account: *nurtorequrmanqoja*);
 + **Askar Utarbayev** (*180103200*) - Java Android Developer (Github account: *AskarUtarbayev1*);
