@@ -6,7 +6,7 @@
 + **Nurtore Kurmankozha** (*180103146*) - Backend (Github account: *nurtorequrmanqoja*);
 + **Askar Utarbayev** (*180103200*) - Java Android Developer (Github account: *AskarUtarbayev1*);
 ## Project
-This project is yet-another clone of Instagram
+This project is an android app and telegram bot for the coffee shop "WOO CUP COOFFE"(inst: @woo.cup.coffee)
 
 ## Alternatives / Market research
 | Research alternatives
