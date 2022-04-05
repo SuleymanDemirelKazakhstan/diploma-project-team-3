@@ -6,24 +6,27 @@
 + **Nurtore Kurmankozha** (*180103146*) - Backend (Github account: *nurtorequrmanqoja*);
 + **Askar Utarbayev** (*180103200*) - Java Android Developer (Github account: *AskarUtarbayev1*);
 ## Project
-This project is an android app and telegram bot for the coffee shop "WOO CUP COOFFE"(inst: @woo.cup.coffee)
-
+Our project is a mobile application and telegram bot for the coffee shop "WOO CUP COFFEE" in Aktau. The main task for us is to get delivery and booking.
 ## Alternatives / Market research
 | Research alternatives
 
 ## Goals
-
+Our goal is to create a good mobile application with an easy interface and a good booking system and telegram bot with convenient ordering delivery
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project for:
+1)To implement a common project: Agile with Kanban method
+2)Design: Figma and AdobePhotosho; 
+3)For back end: Java with Android Studio, Firebase, MySQL
+4)For design: Figma  
 
 ## Pages / Activities 
 We will have following pages:
-- Latest posts of friends
-- Posts from location of user
-- Take a photo page
-- Personal page
-- Settings page
+- Admin page
+- User Page
+- Page for check menu
+- Page for booking 
+- Page For basket
 
 ## Goals
 * What is the purpose of this project?
@@ -49,7 +52,7 @@ We will have following pages:
 *What are the risks?*
 
 ## Mockups, Wireframes
-*Put here images of your wireframes*
+https://www.figma.com/file/6IomQSYaROIginpIYqyghv/asd?node-id=1%3A169
 
 ## Future iterations
 *Write your future iterations*
